@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = s3://dvc-practice-578257748163-parvez/dvc-practice
